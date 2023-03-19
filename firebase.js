@@ -3,13 +3,13 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCPTTkQSTpg15mHbbBj8ovkcdgbaOLyLiE",
-  authDomain: "hermes-2031e.firebaseapp.com",
-  projectId: "hermes-2031e",
-  storageBucket: "hermes-2031e.appspot.com",
-  messagingSenderId: "677358675442",
-  appId: "1:677358675442:web:f6d0efa00ff9705963376b",
-  measurementId: "G-EC0D7EDXLZ"
+  apiKey: "AIzaSyCzb8-K6ig4_PX0JBQmSEdjuQaS7pCV9Eg",
+  authDomain: "hermes-17a6a.firebaseapp.com",
+  projectId: "hermes-17a6a",
+  storageBucket: "hermes-17a6a.appspot.com",
+  messagingSenderId: "403203454882",
+  appId: "1:403203454882:web:e67b551bac9bf1edf6a4fb",
+  measurementId: "G-MW8MSBH5GR",
 };
 
 let app;
